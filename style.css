@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: auto;
+  max-width: 100%;
+  background-color: #222;
+  color: white;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 20px;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #222;
+  color: white;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+#scores {
+  display: flex;
+  justify-content: center;
+  gap: 36px;
+}
+
+#display {
+  line-height: 32px;
+}
